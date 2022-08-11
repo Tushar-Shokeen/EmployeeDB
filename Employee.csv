@@ -1,0 +1,11 @@
+City,Country,DateOfBirth,Email,EmployeeName,PhoneNo,Pincode,State,Street,_id
+Delhi,India,2001-07-12T18:30:00.000Z,vrishti2012@gmail.com,Vrishti Bansal,8377778282,110085,Delhi,sec-7,62f4bf01134e95bed0b71134
+Delhi,India,2001-02-25T00:16:40.000Z,tusharshokeen@gmail.com,Tushar Shokeen,9717227373,110085,Delhi,Mangolpur Kalan,62f4c0ca134e95bed0b71136
+Delhi,India,2001-12-30T18:30:00.000Z,sarthak200@gmail.com,Sarthak Mahendroo,37485883727,110085,Delhi,sec-2,62f4c180134e95bed0b71137
+Delhi,India,2001-09-01T00:16:40.000Z,gautamguptaa@gmail.com,Gautam Gupta,9717424373,110085,Delhi,sec-18,62f4c361134e95bed0b71138
+Delhi,India,2001-07-28T00:16:40.000Z,ritika@gmail.com,Ritika Bhardwaj,9227424373,110025,Delhi,sec-2,62f4c414134e95bed0b71139
+Manhattan,USA,2005-07-28T00:16:40.000Z,jason@gmail.com,Jason,12227424373,10025,New York,south street,62f4c487134e95bed0b7113a
+Queens,USA,2003-04-08T00:16:40.000Z,martha@gmail.com,Martha,227424373,10025,New York,north street,62f4c4b4134e95bed0b7113b
+Birmingham,UK,2004-05-08T00:16:40.000Z,tommy@gmail.com,Thomas,227464373,12235,London,north street,62f4c522134e95bed0b7113c
+Gurugram,India,2003-05-07T00:16:40.000Z,sanjana11@gmail.com,Sanjana,9797699373,100002,Haryana,Sec-17,62f4c600134e95bed0b7113d
+Gurugram,India,1995-10-22T00:16:40.000Z,vikram1@gmail.com,Vikram Bhambhu,9797000666,100002,Haryana,Sukhrali,62f4c61e134e95bed0b7113e

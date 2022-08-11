@@ -1,0 +1,187 @@
+[{
+  "_id": {
+    "$oid": "62f4bf01134e95bed0b71134"
+  },
+  "EmployeeName": "Vrishti Bansal",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "994962600000"
+    }
+  },
+  "Email": "vrishti2012@gmail.com",
+  "PhoneNo": {
+    "$numberLong": "8377778282"
+  },
+  "Street": "sec-7",
+  "City": "Delhi",
+  "State": "Delhi",
+  "Country": "India",
+  "Pincode": 110085
+},{
+  "_id": {
+    "$oid": "62f4c0ca134e95bed0b71136"
+  },
+  "EmployeeName": "Tushar Shokeen",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "983060200000"
+    }
+  },
+  "Email": "tusharshokeen@gmail.com",
+  "PhoneNo": {
+    "$numberLong": "9717227373"
+  },
+  "Street": "Mangolpur Kalan",
+  "City": "Delhi",
+  "State": "Delhi",
+  "Country": "India",
+  "Pincode": 110085
+},{
+  "_id": {
+    "$oid": "62f4c180134e95bed0b71137"
+  },
+  "EmployeeName": "Sarthak Mahendroo",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "1009737000000"
+    }
+  },
+  "Email": "sarthak200@gmail.com",
+  "PhoneNo": {
+    "$numberLong": "37485883727"
+  },
+  "Street": "sec-2",
+  "City": "Delhi",
+  "State": "Delhi",
+  "Country": "India",
+  "Pincode": 110085
+},{
+  "_id": {
+    "$oid": "62f4c361134e95bed0b71138"
+  },
+  "EmployeeName": "Gautam Gupta",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "999303400000"
+    }
+  },
+  "Email": "gautamguptaa@gmail.com",
+  "PhoneNo": {
+    "$numberLong": "9717424373"
+  },
+  "Street": "sec-18",
+  "City": "Delhi",
+  "State": "Delhi",
+  "Country": "India",
+  "Pincode": 110085
+},{
+  "_id": {
+    "$oid": "62f4c414134e95bed0b71139"
+  },
+  "EmployeeName": "Ritika Bhardwaj",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "996279400000"
+    }
+  },
+  "Email": "ritika@gmail.com",
+  "PhoneNo": {
+    "$numberLong": "9227424373"
+  },
+  "Street": "sec-2",
+  "City": "Delhi",
+  "State": "Delhi",
+  "Country": "India",
+  "Pincode": 110025
+},{
+  "_id": {
+    "$oid": "62f4c487134e95bed0b7113a"
+  },
+  "EmployeeName": "Jason",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "1122509800000"
+    }
+  },
+  "Email": "jason@gmail.com",
+  "PhoneNo": {
+    "$numberLong": "12227424373"
+  },
+  "Street": "south street",
+  "City": "Manhattan",
+  "State": "New York",
+  "Country": "USA",
+  "Pincode": 10025
+},{
+  "_id": {
+    "$oid": "62f4c4b4134e95bed0b7113b"
+  },
+  "EmployeeName": "Martha",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "1049761000000"
+    }
+  },
+  "Email": "martha@gmail.com",
+  "PhoneNo": 227424373,
+  "Street": "north street",
+  "City": "Queens",
+  "State": "New York",
+  "Country": "USA",
+  "Pincode": 10025
+},{
+  "_id": {
+    "$oid": "62f4c522134e95bed0b7113c"
+  },
+  "EmployeeName": "Thomas",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "1083975400000"
+    }
+  },
+  "Email": "tommy@gmail.com",
+  "PhoneNo": 227464373,
+  "Street": "north street",
+  "City": "Birmingham",
+  "State": "London",
+  "Country": "UK",
+  "Pincode": 12235
+},{
+  "_id": {
+    "$oid": "62f4c600134e95bed0b7113d"
+  },
+  "EmployeeName": "Sanjana",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "1052266600000"
+    }
+  },
+  "Email": "sanjana11@gmail.com",
+  "PhoneNo": {
+    "$numberLong": "9797699373"
+  },
+  "Street": "Sec-17",
+  "City": "Gurugram",
+  "State": "Haryana",
+  "Country": "India",
+  "Pincode": 100002
+},{
+  "_id": {
+    "$oid": "62f4c61e134e95bed0b7113e"
+  },
+  "EmployeeName": "Vikram Bhambhu",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "814321000000"
+    }
+  },
+  "Email": "vikram1@gmail.com",
+  "PhoneNo": {
+    "$numberLong": "9797000666"
+  },
+  "Street": "Sukhrali",
+  "City": "Gurugram",
+  "State": "Haryana",
+  "Country": "India",
+  "Pincode": 100002
+}]
